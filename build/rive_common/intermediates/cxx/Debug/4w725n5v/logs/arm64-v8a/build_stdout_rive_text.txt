@@ -1,2 +1,0 @@
-ninja: Entering directory `C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\rive_common-0.2.7\android\.cxx\Debug\4w725n5v\arm64-v8a'
-[1/1] Linking CXX shared library "E:\flutter projects\portfolio-main\build\rive_common\intermediates\cxx\Debug\4w725n5v\obj\arm64-v8a\librive_text.so"
